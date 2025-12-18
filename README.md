@@ -11,7 +11,7 @@ A simple calculator that runs on tkinter.
 ## Сode information:
 
 Calculator/\
-**Main_Code**       --- *The main file - all logic*\
+**Main_Code**       --- *The main file - all logic*
 
 ## Installation and Requirements:
 
@@ -37,6 +37,7 @@ Long press (>0.5 seconds) – clear all input
 ## Launching
 ```bash
 python Main_Code.py
+
 
 
 
