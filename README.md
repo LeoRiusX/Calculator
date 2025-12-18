@@ -1,6 +1,6 @@
 # Calculator in Python (Tkinter)
 
-A simple calculator, using the tkinter.
+A simple calculator that runs on tkinter.
 
 ## Features :
 -> Support for basic arithmetic operations: +, -, *, /\
@@ -37,6 +37,7 @@ Long press (>0.5 seconds) – clear all input
 ## Launching
 ```bash
 python Main_Code.py
+
 
 
 
